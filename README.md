@@ -51,7 +51,7 @@ $ ipython kernel install --user --name=dataset-documentation
 $ conda deactivate
 ```
 ### Launch Jupyter lab
-Launch Jupyter lab and naviguate to open the main.ipynb file. Make sure to change the kernel to the one created above called "dataset-documentation" (e.g., see [here](https://doc.cocalc.com/howto/jupyter-kernel-selection.html#cocalc-s-jupyter-notebook)). We recommend to use the [JupyterLab code formatter](https://github.com/ryantam626/jupyterlab_code_formatter) along with the [Black](https://github.com/psf/black) and [isort](https://github.com/PyCQA/isort) formatters to facilitate compliance with PEP8 if you are editing the notebook.
+Launch Jupyter lab and naviguate to open the Jupyter notebook of interest. Make sure to change the kernel to the one created above called "dataset-documentation" (e.g., see [here](https://doc.cocalc.com/howto/jupyter-kernel-selection.html#cocalc-s-jupyter-notebook)). We recommend to use the [JupyterLab code formatter](https://github.com/ryantam626/jupyterlab_code_formatter) along with the [Black](https://github.com/psf/black) and [isort](https://github.com/PyCQA/isort) formatters to facilitate compliance with PEP8 if you are editing the notebook.
 
 ## Inputs/outputs
 The Jupyter notebook makes use of files in the dataset associated with the paper [(see here)](https://github.com/AI-READI/dataset-documentation-paper-inventory). You will need to download the dataset at add it in the [inputs](inputs) folder (call the dataset folder 'dataset' after downloading it).
