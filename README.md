@@ -50,6 +50,26 @@ $ conda install ipykernel
 $ ipython kernel install --user --name=dataset-documentation
 $ conda deactivate
 ```
+### Setup env vars
+The environment variables required are listed in the table below along with information on how to get them
+
+<table>
+<thead>
+  <tr>
+    <th>Suggested name</th>
+    <th>Value or instructions for obtaining it</th>
+    <th>Purpose</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>GITHUB_ACCESS_TOKEN</td>
+    <td> https://docs.github.com/en/rest/authentication/authenticating-to-the-rest-api </td>
+    <td>Required to run the GitHub search code in real-world-usage.ipynb </td>
+  </tr>
+</tbody>
+</table>
+
 ### Launch Jupyter lab
 Launch Jupyter lab and naviguate to open the Jupyter notebook of interest. Make sure to change the kernel to the one created above called "dataset-documentation" (e.g., see [here](https://doc.cocalc.com/howto/jupyter-kernel-selection.html#cocalc-s-jupyter-notebook)). We recommend to use the [JupyterLab code formatter](https://github.com/ryantam626/jupyterlab_code_formatter) along with the [Black](https://github.com/psf/black) and [isort](https://github.com/PyCQA/isort) formatters to facilitate compliance with PEP8 if you are editing the notebook.
 
