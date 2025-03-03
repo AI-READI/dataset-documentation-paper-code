@@ -14,3 +14,4 @@ inputs/dataset/primary/survey.pdf
 .ipynb_checkpoints/comparison-checkpoint.ipynb
 .ipynb_checkpoints/real-world-usage-checkpoint.ipynb
 /inputs/dataset
+/.ipynb_checkpoints
