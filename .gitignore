@@ -6,3 +6,10 @@ inputs/dataset/primary/survey-results.xlsx
 inputs/dataset/derivative/metadata_elements_count.xlsx
 inputs/dataset/primary/real-world-usage-method3-GitHub.xlsx
 inputs/dataset/primary/survey.pdf
+.ipynb_checkpoints/environment-checkpoint.yml
+/.ipynb_checkpoints
+/.ipynb_checkpoints
+/.ipynb_checkpoints
+/.ipynb_checkpoints
+.ipynb_checkpoints/comparison-checkpoint.ipynb
+.ipynb_checkpoints/real-world-usage-checkpoint.ipynb
