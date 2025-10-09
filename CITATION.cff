@@ -1,0 +1,20 @@
+title: "Code: Dataset Documentation for AI Paper"
+authors:
+  - given-names: Bhavesh
+    family-names: Patel
+    affiliation: FAIR Data Innovations Hub, California Medical Innovations Institute
+  - given-names: Kyongmi
+    family-names: Simpkins
+    affiliation: Viterbi Family Department of Ophthalmology and Shiley Eye
+      Institute, University of California San Diego
+cff-version: 1.2.0
+message: If you use this software, please cite it using the metadata from this file.
+type: software
+abstract: Code associated with the data documentation paper
+keywords:
+  - Dataset
+  - Documentation
+  - Transparency
+  - AI
+license: MIT
+repository-code: https://github.com/AI-READI/dataset-documentation-paper-code
