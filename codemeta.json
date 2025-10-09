@@ -1,0 +1,46 @@
+{
+  "name": "Code: Dataset Documentation for AI Paper",
+  "@context": "https://w3id.org/codemeta/3.0",
+  "author": [
+    {
+      "affiliation": {
+        "name": "FAIR Data Innovations Hub, California Medical Innovations Institute",
+        "type": "Organization"
+      },
+      "familyName": "Patel",
+      "id": "https://orcid.org/0000-0002-0307-262X",
+      "givenName": "Bhavesh",
+      "type": "Person"
+    },
+    {
+      "affiliation": {
+        "name": "Viterbi Family Department of Ophthalmology and Shiley Eye Institute, University of California San Diego",
+        "type": "Organization"
+      },
+      "familyName": "Simpkins",
+      "id": "https://orcid.org/0009-0007-7888-7528",
+      "givenName": "Kyongmi",
+      "type": "Person"
+    }
+  ],
+  "codeRepository": "https://github.com/AI-READI/dataset-documentation-paper-code",
+  "dateCreated": "2024-08-16",
+  "description": "Code associated with the data documentation paper",
+  "funder": {
+    "name": "US National Institutes of Health (NIH)",
+    "type": "Organization"
+  },
+  "funding": "OT2OD032644",
+  "issueTracker": "https://github.com/AI-READI/dataset-documentation-paper-code/issues",
+  "keywords": [
+    "Dataset",
+    "Documentation",
+    "Transparency",
+    "AI"
+  ],
+  "license": "https://spdx.org/licenses/MIT",
+  "programmingLanguage": [
+    "Jupyter Notebook"
+  ],
+  "type": "SoftwareSourceCode"
+}
