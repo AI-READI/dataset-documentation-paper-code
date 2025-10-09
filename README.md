@@ -85,7 +85,4 @@ This work is licensed under
 Use the [GitHub issues](https://github.com/AI-READI/dataset-documentation-paper-code/issues) for submitting feedback or making suggestions. You can also work the repository and submit a pull request with suggestions.
 
 ## How to cite
-If you use this code, please cite the related paper (it will be listed [here](https://github.com/AI-READI/dataset-documentation-paper-inventory) when available) and also cite this repository as:
-
-```bash
-Simpkins, Kyongmi, Patel, Bhavesh. Code: Dataset Documentation for AI Paper [Software]. Zenodo. https://doi.org/10.5281/zenodo.14583673
+If you use this code, please cite the related paper (it will be listed [here](https://github.com/AI-READI/dataset-documentation-paper-inventory) when available) and also cite this repository as indicated in the [CITATION.cff(CITATION.cff) file.
