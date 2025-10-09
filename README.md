@@ -2,7 +2,6 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14583673.svg)](https://doi.org/10.5281/zenodo.14583673)
 
 [contributors-shield]: https://img.shields.io/github/contributors/AI-READI/dataset-documentation-paper-code.svg?style=flat-square
 [contributors-url]: https://github.com/AI-READI/dataset-documentation-paper-code/graphs/contributors
